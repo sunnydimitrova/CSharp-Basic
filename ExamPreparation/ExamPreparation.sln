@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Savings", "ExamPreparation\01. Savings.csproj", "{7E2C3144-109B-4AD4-BC24-2E6E2C2C4A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Summer Shopping", "02. Summer Shopping\02. Summer Shopping.csproj", "{369F81E3-B058-42BE-A56B-6917B151921E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2C3144-109B-4AD4-BC24-2E6E2C2C4A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2C3144-109B-4AD4-BC24-2E6E2C2C4A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2C3144-109B-4AD4-BC24-2E6E2C2C4A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2C3144-109B-4AD4-BC24-2E6E2C2C4A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369F81E3-B058-42BE-A56B-6917B151921E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369F81E3-B058-42BE-A56B-6917B151921E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369F81E3-B058-42BE-A56B-6917B151921E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369F81E3-B058-42BE-A56B-6917B151921E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D37ABD-31FA-42DB-ACF9-80614D75BD36}
+	EndGlobalSection
+EndGlobal

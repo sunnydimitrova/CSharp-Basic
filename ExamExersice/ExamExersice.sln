@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Christmas Sweets", "ExamExersice\01. Christmas Sweets.csproj", "{48C14623-E161-4F82-B09A-A99B2C5B1CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Christmas Market", "02. Christmas Market\02. Christmas Market.csproj", "{0C91CB80-5539-43AF-9ED9-2C40954577F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C14623-E161-4F82-B09A-A99B2C5B1CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C14623-E161-4F82-B09A-A99B2C5B1CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C14623-E161-4F82-B09A-A99B2C5B1CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C14623-E161-4F82-B09A-A99B2C5B1CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C91CB80-5539-43AF-9ED9-2C40954577F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C91CB80-5539-43AF-9ED9-2C40954577F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C91CB80-5539-43AF-9ED9-2C40954577F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C91CB80-5539-43AF-9ED9-2C40954577F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95AA6EFC-F445-46DC-AE21-B574CCEEDE13}
+	EndGlobalSection
+EndGlobal
